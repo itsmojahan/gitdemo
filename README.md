@@ -14,4 +14,18 @@ code
 
 ```
 Linked List Example: A dummy = 
-ListNode(0) is created, with dummy.next pointing to the real head. The lis
+ListNode(0) is created, with dummy.next pointi
+
+
+| ing to  | the real | head.  | The lis |
+| ------- | -------- | -----  | ------- |
+| ing to  | the real | head.  | The lis |
+
+
+
+---
+```mermaid
+graph TD
+A--> B
+C-->D
+
